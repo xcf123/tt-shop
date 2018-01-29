@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tt-activemq" />
+        <module name="tt-common" />
+        <module name="tt-ftp" />
+        <module name="tt-lucene" />
+        <module name="tt-luence" />
+        <module name="tt-manager-dao" />
+        <module name="tt-manager-interface" />
+        <module name="tt-manager-pojo" />
+        <module name="tt-manager-service" />
+        <module name="tt-manager-web" />
+        <module name="tt-protal-web" />
+        <module name="tt-search-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tt-activemq" target="1.7" />
+      <module name="tt-common" target="1.7" />
+      <module name="tt-ftp" target="1.7" />
+      <module name="tt-lucene" target="1.7" />
+      <module name="tt-luence" target="1.7" />
+      <module name="tt-manage" target="1.5" />
+      <module name="tt-manager" target="1.7" />
+      <module name="tt-manager-dao" target="1.7" />
+      <module name="tt-manager-interface" target="1.7" />
+      <module name="tt-manager-pojo" target="1.7" />
+      <module name="tt-manager-service" target="1.7" />
+      <module name="tt-manager-web" target="1.7" />
+      <module name="tt-parent" target="1.7" />
+      <module name="tt-protal-web" target="1.7" />
+      <module name="tt-search-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

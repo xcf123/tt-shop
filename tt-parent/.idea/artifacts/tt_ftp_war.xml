@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tt-ftp:war">
+    <output-path>$PROJECT_DIR$/../tt-ftp/target</output-path>
+    <root id="archive" name="tt-ftp.war">
+      <element id="artifact" artifact-name="tt-ftp:war exploded" />
+    </root>
+  </artifact>
+</component>

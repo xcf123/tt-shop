@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.qianfeng.dao.TbItemParamCustomMapper" >
+    <sql id="Base_Column_List" >
+        id,item_cat_id as itemCatId,param_data as paramData,created,updated
+    </sql>
+
+    <select id="selectParamByCid" resultType="com.qianfeng.pojo.po.TbItemParam">
+        SELECT
+        <include refid="Base_Column_List"></include>
+        from tb_item_param
+        where item_cat_id=#{id}
+    </select>
+
+
+    <select id="tbItemParamCount" resultType="_long">
+        select count(id) FROM  tb_item_param
+    </select>
+
+    <select id="tbItemParamListByPage" resultType="com.qianfeng.pojo.po.TbItemParam">
+        select
+        <include refid="Base_Column_List"></include>
+        from tb_item_param
+        limit  #{offset},#{rows}
+    </select>
+</mapper>

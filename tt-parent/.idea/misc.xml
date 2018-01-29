@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../tt-ftp" />
+    <file type="web" url="file://$PROJECT_DIR$/../tt-manager/tt-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../tt-protal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../tt-search-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../tt-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-manager/tt-manager-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-protal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-manager/tt-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-lucene/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-manager/tt-manager-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-manager/tt-manager-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-manager/tt-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-ftp/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../tt-activemq/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

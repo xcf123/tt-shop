@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../tt-activemq/tt-activemq.iml" filepath="$PROJECT_DIR$/../tt-activemq/tt-activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-common/tt-common.iml" filepath="$PROJECT_DIR$/../tt-common/tt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-ftp/tt-ftp.iml" filepath="$PROJECT_DIR$/../tt-ftp/tt-ftp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-lucene/tt-luence.iml" filepath="$PROJECT_DIR$/../tt-lucene/tt-luence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-manager/tt-manager.iml" filepath="$PROJECT_DIR$/../tt-manager/tt-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-manager/tt-manager-dao/tt-manager-dao.iml" filepath="$PROJECT_DIR$/../tt-manager/tt-manager-dao/tt-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-manager/tt-manager-interface/tt-manager-interface.iml" filepath="$PROJECT_DIR$/../tt-manager/tt-manager-interface/tt-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-manager/tt-manager-pojo/tt-manager-pojo.iml" filepath="$PROJECT_DIR$/../tt-manager/tt-manager-pojo/tt-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-manager/tt-manager-service/tt-manager-service.iml" filepath="$PROJECT_DIR$/../tt-manager/tt-manager-service/tt-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-manager/tt-manager-web/tt-manager-web.iml" filepath="$PROJECT_DIR$/../tt-manager/tt-manager-web/tt-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-parent.iml" filepath="$PROJECT_DIR$/tt-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-protal-web/tt-protal-web.iml" filepath="$PROJECT_DIR$/../tt-protal-web/tt-protal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tt-search-web/tt-search-web.iml" filepath="$PROJECT_DIR$/../tt-search-web/tt-search-web.iml" />
+    </modules>
+  </component>
+</project>
